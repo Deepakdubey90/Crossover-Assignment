@@ -1,0 +1,5 @@
+<client ip='odysseas.gasparinatos.eu' port='10022' username='internat' password='k9V6dZ4al2' mail="asa@asda.
+com">
+ <alert type="memory" limit="50%" />
+ <alert type="cpu" limit="20%" />
+</client>
